@@ -16,6 +16,7 @@ O projeto ideializa um aplicativo que tem o objetivo de indentificar a pose(esqu
  Criar uma aplicação que consiga analisar uma imagem e classificar se aquela imagem representa um golpe de punho utilizando os braços ou um golpe de chute utilizando as pernas. Os golpes serão baseados em qualquer forma de arte marcial ou luta, sendo apenas uma representação genérica de soco ou chute. O intuito é conseguir através do aplicativo e classificar e representar na tela através de um texto ou uma cor específica de cada golpe, seja por exemplo: um campo com o nome do golpe ou vermelho - soco, azul - chute.
 
 ## [Dataset](#dataset)
-
+O dataset será desenvolvido através de um upload ou da captura de uma imagem conforme a utilização do aplicativo.
 
 ## [Técnica](#tecnica)
+
