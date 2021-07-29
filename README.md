@@ -20,3 +20,12 @@ O dataset será desenvolvido através de um upload ou da captura de uma imagem c
 
 ## [Técnica](#tecnica)
 
+Para a implementação do modelo de classificação de poses, será utilizado o algoritmo K-NN (k-nearest neighbors algorithm) e do CNN (Convolutional Neural network). O processo do aplicativo funcionará em 2 etapas:
+- Extração dos dados das imagens através de bibliotecas em Python (Phyton Solution API) baseadas na arquitetura para estimar poses humanas, proposta pelo BlazePose, que é uma rede neural convolucional (CNN). O resultado são dados com as predições do esqueleto humano marcados na imagens (landmarks) que serão exportadas para um arquivo .CSV .
+- Classificação dos dados através de uma plataforma do Google colaboratory (Colab) com uma implementação de classificação genérica para poses através dos dados do arquivo CSV. Está servirá para a classificação com o algoritmo K-NN e deverá ser customizada para garantir a conformidade para a técnica proposta, socos ou chutes.
+
+
+BlazePose - https://drive.google.com/file/d/11dqOT2VHsZay8KIIf_Kj0uAD9SNirAas/view
+Colab - https://colab.research.google.com/drive/19txHpN8exWhstO6WVkfmYYVC6uug_oVR
+
+
