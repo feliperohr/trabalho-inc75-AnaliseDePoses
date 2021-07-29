@@ -1,4 +1,4 @@
-# Trabalho-INC75-ReconheimentoDePosesHumanas
+# Trabalho-INC75-ClassificaçãoDePoses
 
  ![Logo da UDESC Alto Vale](http://www1.udesc.br/imagens/id_submenu/2019/marca_alto_vale_horizontal_assinatura_rgb_01.jpg)
  
