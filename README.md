@@ -2,7 +2,7 @@
 
  ![Logo da UDESC Alto Vale](http://www1.udesc.br/imagens/id_submenu/2019/marca_alto_vale_horizontal_assinatura_rgb_01.jpg)
  
-O projeto ideializa um aplicativo que tem o objetivo de indentificar a pose(esqueleto humano) e classificar com 
+O projeto ideializa um aplicativo que tem o objetivo de indentificar a pose(esqueleto humano) e classificar conforma a técnica, chute ou soco.
  
  - [**Felipe Rohr Hoinoski**](mailto:felipehoinoski@gmail.com) 
 
@@ -26,6 +26,7 @@ Para a implementação do modelo de classificação de poses, será utilizado o 
 
 
 BlazePose - https://drive.google.com/file/d/11dqOT2VHsZay8KIIf_Kj0uAD9SNirAas/view
+
 Colab - https://colab.research.google.com/drive/19txHpN8exWhstO6WVkfmYYVC6uug_oVR
 
 
