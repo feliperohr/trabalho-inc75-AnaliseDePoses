@@ -1,0 +1,27 @@
+Requisito prioritário é a linguagem Python com os PATH pré configurados.
+
+- Python --version 3^
+
+
+Assim que instalar o python em sua máquina, você utilizará de uma ferramenta que vem com dele por default ( pip )
+
+1# instalar o tensorflow: pip install tensorflow
+
+2# instalar o framework Flask: pip install flask
+
+
+Depois disso, basta navegar para pasta dos arquivos do sistema: do folder '/yoga-classifier/'
+
+E executar o arquivo ( app.py ) como um arquivo Python, exemplo: 
+	
+	C:/.../yoga-classifier/python app.py
+	
+	
+Por fim, será redirecionado para o endereço: http://127.0.0.1:5001/ 
+
+** o valor 5001 representa a porta, se tiver algum problema com a porta do servidor,
+abra o arquivo app.py e altere a variavel  (_port_) para um valor disponível no seu ambiente.
+	
+
+
+
