@@ -18,7 +18,8 @@ O projeto idealiza um trabalho de reconhecimento de imagens de yoga, desenvolvid
  A tarefa de classificação e reconhecimento de imagens é uma das tarefas mais requisitadas e desenvolvidas na área de IA, o desafio é treinar um modelo que possa reconhecer de forma automática um objeto, gesto ou pose de imagens. O treinamento depende da estratégia escolhida por cada sistema, como algoritmos específicos de machine learning ou arquiteturas neurais de aprendizado, nesta etapa são aprendidas as características (features) das imagens que serão utilizadas como parâmetro para as futuras previsões. A Yoga descreve um cenário que a identificação de poses é válida através de imagens, as poses são normalmente estáticas utilizando de técnicas de alongamento e respiração, ou seja a captura das poses são de facilitadas e através de uma foto o sistema pode dizer qual o nome da pose.
 
 ## [Dataset](#dataset)
-Para o desenvolvimento do modelo, foi utilizado um dataset disponibilizado em: https://www.kaggle.com/niharika41298/yoga-poses-dataset/tasks?taskId=2436. O dataset é dividido em imagens de treinamento e teste, e uma segunda divisão de 5 poses diferentes da yoga: downdog, goddess, plank, tree, warrior2.
+Para o desenvolvimento do modelo, foi utilizado um dataset disponibilizado em: https://www.kaggle.com/niharika41298/yoga-poses-dataset/tasks?taskId=2436. 
+O dataset é dividido em imagens de treinamento e teste, e uma segunda divisão de 5 poses diferentes da yoga: downdog, goddess, plank, tree, warrior2.
 
 ## [Técnica](#tecnica)
 
