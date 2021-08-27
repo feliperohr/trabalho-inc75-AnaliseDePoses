@@ -45,7 +45,7 @@ Por fim, os resultados mostram que os gráficos, ou seja, os valores de precisã
 
 ## [Instruções de uso do software](#instrucoes)
 
-Às detalhes para preparar o ambiente e conseguir rodar o projeto estão no arquivo de instrucoes.txt
+Os detalhes para preparar o ambiente e conseguir rodar o projeto estão no arquivo de instrucoes.txt
 
 
 ## [Vídeo](#video)
