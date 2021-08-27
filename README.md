@@ -26,8 +26,10 @@ O dataset é dividido em imagens de treinamento e teste, e uma segunda divisão 
 Para resolver o problema e construir o sistema de classificação de imagens, foi aplicado um modelo de rede neural e uma interface web simples para captar o imput de imagens do usuário.
 
 - Para a extração das features das poses foi utilizada uma rede neural disponibilizada pelo TensorFlow, mais especificamente pelo módulo Keras (InceptionV3). InceptionV3 é uma rede neural de transferência do tipo CNN (rede neural convolucional). O modelo utilizado neste sistema é descrito por um modelo customizado que implementa os layers de entrada da arquitetura do Inception e como layers para saída utiliza nodos neurais densos, o número de nodos corresponde ao número de labels (classes) do dataset, ou seja, as poses de yoga.
+- https://keras.io/api/applications/inceptionv3/
 
 - O modelo depois de treinado poderá prever o nome da pose conforme a imagem passada na aplicação web utilizando servidor criado utilizando o framework Flask do Python.
+- https://flask.palletsprojects.com/en/2.0.x/
 
 ## [Resultados Obtidos](#resultados)
 
@@ -42,6 +44,8 @@ Para os resultados do modelo foi utilizado de testes baseados na precisão (prec
 Por fim, os resultados mostram que os gráficos, ou seja, os valores de precisão e perda se mantiveram satisfatórios, apesar da matriz apresentar um aspecto misto de informações, previsões erradas no sistema. 
 
 ## [Instruções de uso do software](#instrucoes)
+
+
 
 ## [Vídeo](#video)
 
