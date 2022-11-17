@@ -48,11 +48,7 @@ Por fim, os resultados mostram que os gráficos, ou seja, os valores de precisã
 Os detalhes para preparar o ambiente e conseguir rodar o projeto estão no arquivo de instrucoes.txt
 
 
-## [Vídeo](#video)
 
-Apresentação da metodologia de desenvolvimento e conclusão geral do trabalho.
-
-- https://udesc-my.sharepoint.com/:f:/g/personal/07236942901_edu_udesc_br/Eo5gXorXp5pLgViwLfKFYkgBy6OZRroegmXV5lIHQu8kyg?e=TPTIZV
 
 
 
